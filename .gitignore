@@ -1,0 +1,16 @@
+# OS-specific
+Thumbs.db
+.DS_Store
+
+# Node/Docker (in case you extend this)
+node_modules/
+.env
+*.log
+
+# Kubernetes
+*.yaml
+.kube/
+
+# IntelliJ/VSCode
+.idea/
+.vscode/
